@@ -1,5 +1,81 @@
 services:
-  php:
+  ms1:
+    build: .
+    ports:
+      - 80:80
+  ms2:
+    build: .
+    ports:
+      - 80:80
+  ms3:
+    build: .
+    ports:
+      - 80:80
+  ms4:
+    build: .
+    ports:
+      - 80:80
+  ms5:
+    build: .
+    ports:
+      - 80:80
+  ms6:
+    build: .
+    ports:
+      - 80:80
+  ms7:
+    build: .
+    ports:
+      - 80:80
+  ms8:
+    build: .
+    ports:
+      - 80:80
+  ms9:
+    build: .
+    ports:
+      - 80:80
+  ms10:
+    build: .
+    ports:
+      - 80:80
+  ms11:
+    build: .
+    ports:
+      - 80:80
+  ms12:
+    build: .
+    ports:
+      - 80:80
+  ms13:
+    build: .
+    ports:
+      - 80:80
+  ms14:
+    build: .
+    ports:
+      - 80:80
+  ms15:
+    build: .
+    ports:
+      - 80:80
+  ms16:
+    build: .
+    ports:
+      - 80:80
+  ms17:
+    build: .
+    ports:
+      - 80:80
+  ms18:
+    build: .
+    ports:
+      - 80:80
+  ms19:
+    build: .
+    ports:
+      - 80:80
+  ms20:
     build: .
     ports:
       - 80:80
