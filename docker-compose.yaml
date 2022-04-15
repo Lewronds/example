@@ -1,81 +1,81 @@
 services:
-  ms1:
+  example1:
     build: .
     ports:
       - 80:80
-  ms2:
+  example2:
     build: .
     ports:
       - 80:80
-  ms3:
+  example3:
     build: .
     ports:
       - 80:80
-  ms4:
+  example4:
     build: .
     ports:
       - 80:80
-  ms5:
+  example5:
     build: .
     ports:
       - 80:80
-  ms6:
+  example6:
     build: .
     ports:
       - 80:80
-  ms7:
+  example7:
     build: .
     ports:
       - 80:80
-  ms8:
+  example8:
     build: .
     ports:
       - 80:80
-  ms9:
+  example9:
     build: .
     ports:
       - 80:80
-  ms10:
+  example10:
     build: .
     ports:
       - 80:80
-  ms11:
+  example11:
     build: .
     ports:
       - 80:80
-  ms12:
+  example12:
     build: .
     ports:
       - 80:80
-  ms13:
+  example13:
     build: .
     ports:
       - 80:80
-  ms14:
+  example14:
     build: .
     ports:
       - 80:80
-  ms15:
+  example15:
     build: .
     ports:
       - 80:80
-  ms16:
+  example16:
     build: .
     ports:
       - 80:80
-  ms17:
+  example17:
     build: .
     ports:
       - 80:80
-  ms18:
+  example18:
     build: .
     ports:
       - 80:80
-  ms19:
+  example19:
     build: .
     ports:
       - 80:80
-  ms20:
+  example20:
     build: .
     ports:
       - 80:80
